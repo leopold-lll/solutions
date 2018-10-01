@@ -9,7 +9,7 @@ Sito interno all'università: http://cricca.disi.unitn.it/montresor/teaching/com
 
 ### Organizzazione repository
 Inserire ogni file contenente la soluzione di un problema all'interno di una cartella con anno e regione d'appartenenza.  
-Assieme alla soluzione salvare anche un link, o direttamente un pdf, per poter risalire al testo del problema.
+Assieme alla soluzione salvare anche un link, o dei riferimenti, per poter risalire al testo del problema.
 
 ### Opzioni di compilazione
 In linea con le regole della gara le possibili opzioni di compilazione sono:
